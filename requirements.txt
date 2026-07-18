@@ -1,0 +1,8 @@
+torch
+numpy
+pydantic
+langchain
+langchain-groq
+python-dotenv
+scikit-learn
+rich
